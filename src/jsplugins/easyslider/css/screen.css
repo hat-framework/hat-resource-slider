@@ -1,0 +1,10 @@
+.slider{ text-align: center; }
+.slider ul, .slider li{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+.slider li{ overflow:hidden; }
+.slider li a{  }
+.slider li a span{color:black; bottom: 0; padding-bottom: 10px;}
+.slider li a img {border:none;}
