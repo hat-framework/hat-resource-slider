@@ -1,9 +1,9 @@
 {
-    "name": "hatframework/resources/slider",
+    "name": "hatframework/hat-resource-slider",
     "type": "library",
     "description": "",
     "keywords": [],
-    "homepage": "https://github.com/hat-framework/resources/slider",
+    "homepage": "https://github.com/hat-framework/hat-resource-slider",
     "license": "MIT",
     "authors": [
         {
