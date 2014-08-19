@@ -11,8 +11,8 @@ class easysliderJs extends JsPlugin{
     private $width         = '80';
     private $height        = '80';
     public function init(){
-        $this->Html->loadExternCss("$this->url/css/screen");
-        $this->Html->LoadJs("$this->url/js/easySlider1.7");
+        $this->Html->loadExternCss('jsplugins/slider/easyslider');
+        $this->Html->LoadBowerComponent("jQuery-easySlider/dist/jquery.easySlider.min");
     }
 
     static private $instance;
